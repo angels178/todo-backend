@@ -1,4 +1,4 @@
-\c todoList_dev;
+\c todo_dev;
 
 INSERT INTO 
     todos(name, notes, deadline_date, completed)
